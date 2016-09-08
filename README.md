@@ -1,5 +1,5 @@
-Apigee Time Sync
-================
+Apigee OPDK Time Sync
+=====================
 
 This roles installs and minimally configures ntpd and sets the locale for an Apigee OPDK installation.  
 
