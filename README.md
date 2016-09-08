@@ -35,6 +35,10 @@ Location of the ntp configuration file
 
     ntp_conf: /etc/ntp.conf
 
+Dependencies
+------------
+
+No dependencies
 
 Example Playbook
 ----------------
@@ -47,6 +51,11 @@ Including an example of how to use your role (for instance, with variables passe
     
       roles:
       - opdk-time-sync
+
+License
+-------
+
+Apache License Version 2.0, January 2004
 
 Author Information
 ------------------
