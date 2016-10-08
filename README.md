@@ -48,7 +48,7 @@ Example Playbook
       become: true
     
       roles:
-      - opdk-time-sync
+      - apigee-opdk-time-sync
 
 License
 -------
